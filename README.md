@@ -4,7 +4,7 @@
 
 Title: ¿Compras online? Formas de recoger tu pedido más cómodas para tu y más sostenibles para el planeta
 
-This project talks about the service related to delivery services. It is developed in HTML, CSS and jQuery and was designed by Laura Martín.
+This project talks about delivery services and how they fight against the climate change. It is developed in HTML, CSS and jQuery and was designed by Laura Martín.
 
 ## Link
 
